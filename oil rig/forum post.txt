@@ -7,11 +7,9 @@
 
 [b]Benefits:[/b]
 
-[ul][li]Paying 15x your highest stat + $50,000 per EE merit[/li]
+[ul][li]Paying 10x your highest stat + $100,000 per EE merit[/li]
 [li]Job points worth over $100,000 each[/li]
 [li]Free trains always on rotation[/li][/ul]
-
-[b]Note: We will star up very quickly.[/b]
 
 [table][tr][th]Stars[/th][th]Name[/th][th]Cost (Job Points)[/th][th]Effect[/th][/tr][tr][td]1[/td][td]Danger Money[/td][td]1[/td][td]Money[/td][/tr][tr][td]3[/td][td]Embargo[/td][td]50[/td][td]Halve a target's happiness[/td][/tr][tr][td]5[/td][td]Oil Mogul[/td][td]3[/td][td]Reduce bank investment time by 1 hour[/td][/tr][tr][td]7[/td][td]Tax Haven[/td][td]Passive[/td][td]10% increase of Cayman Islands interest rate[/td][/tr][tr][td]10[/td][td]Fat Cat[/td][td]Passive[/td][td]50% investment banking limit[/td][/tr][/table]
 
