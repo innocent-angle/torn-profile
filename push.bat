@@ -1,6 +1,6 @@
 cd D:\Projects\torn-stuff
 git add .
-git commit -m "automated update"
+git commit -m "automated push"
 git push
 echo Press Enter...
 read
