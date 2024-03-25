@@ -2,22 +2,15 @@
 [size=16][b][url=https://www.torn.com/joblist.php#/p=corpinfo&userID=2068379]Golden Shores Drilling Co.[/url][/b] is looking for long term employees![/size][/center]
 
 
-[center][b][size=18]Currently looking for 100,000 Intelligence[/size][/b][/center]
+[center][b][size=16]Currently looking for 100,000 Intelligence[/size][/b][/center]
 
 
-[b]Benefits:[/b]
+You will be paid 10x your highest stat + $100,000 per EE merit, on top of the lucrative perks.
+Trains are always free and rotated between company members.
+We are aiming for 10 stars, get in early and enjoy the climb.
 
-[ul][li]Fair pay based on stats[/li]
-[li]Bonus for EE merits[/li]
-[li]Great perks for even more income[/li]
-[li]Free trains always on rotation[/li]
-[li]Friendly and relaxed environment[/li][/ul]
+[table][tr][th]Stars[/th][th]Name[/th][th]Cost (Job Points)[/th][th]Effect[/th][/tr][tr][td]1[/td][td]Danger Money[/td][td]1[/td][td]Money[/td][/tr][tr][td]3[/td][td]Embargo[/td][td]50[/td][td]Halve a target's happiness[/td][/tr][tr][td]5[/td][td]Oil Mogul[/td][td]3[/td][td]Reduce bank investment time by 1 hour[/td][/tr][tr][td]7[/td][td]Tax Haven[/td][td]Passive[/td][td]10% increase of Cayman Islands interest rate[/td][/tr][tr][td]10[/td][td]Fat Cat[/td][td]Passive[/td][td]50% investment banking limit[/td][/tr][/table]
 
-[table][tr][th]Stars[/th][th]Name[/th][th]Cost (Job Points)[/th][th]Effect[/th][/tr][tr][td]1[/td][td]Danger Money[/td][td]1[/td][td]Money[/td][/tr][tr][td]3[/td][td]Embargo[/td][td]50[/td][td]Halve a target's happiness[/td][/tr][tr][td]5[/td][td]Oil Mogul[/td][td]3[/td][td]Reduce bank investment time by 1 hour[/td][/tr][/table]
-
-[b]Expectations:[/b]
-
-I don't have a strict set of requirements. 
-I trust everyone to keep their efficiency reasonable or give notice otherwise.
+General expectations are to log in daily and rehab at -10, but exceptions can be made.
 
 Please send me a [url=https://www.torn.com/profiles.php?XID=2068379]message[/url] or [url=https://www.torn.com/messages.php#/p=compose&XID=2218945]mail[/url] with your stats, or just [url=https://www.torn.com/joblist.php#/p=corpinfo&userID=2068379]apply directly[/url].
